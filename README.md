@@ -5,6 +5,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - 🌱 Currently, I'm expanding my skills in full-stack software development and exploring new technologies.
 - 💞️ I'm always looking to collaborate on exciting projects and contribute to open-source initiatives.
 - 📫 You can reach me through email at ezgicoban3261@gmail.com or connect with me on LinkedIn: linkedin.com/in/ezgi--coban
+  
 Feel free to explore my repositories and projects to get a glimpse of my work. Don't hesitate to reach out if you have any questions, ideas, or opportunities for collaboration. Let's build something great together!
 
 <!---
